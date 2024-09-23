@@ -1,0 +1,1 @@
+<a href="{{$data}}">Share Referral Link</a>

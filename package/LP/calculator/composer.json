@@ -1,0 +1,16 @@
+{
+    "name": "lp/calculator",
+    "description": "this is sovled math problem",
+    "autoload": {
+        "psr-4": {
+            "Lp\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raju Kumar",
+            "email": "rajukumarpandi82520@gmail.com"
+        }
+    ],
+    "require": {}
+}
